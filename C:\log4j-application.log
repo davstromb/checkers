@@ -1,0 +1,132 @@
+2017-05-17 08:29:21 ERROR Board:56 - Agents colors are matching
+2017-05-17 08:29:21 INFO  Board:77 - Distance is not legal, suggested distance: 1.4142135623730951
+2017-05-17 08:29:21 INFO  Board:77 - Distance is not legal, suggested distance: 2.23606797749979
+2017-05-17 08:29:21 INFO  Board:103 - Distance is not legal, suggested distance: 2.23606797749979
+2017-05-17 08:30:02 ERROR Board:56 - Agents colors are matching.
+2017-05-17 08:30:02 ERROR Board:60 - Agents can not have the same name.
+2017-05-17 08:30:02 INFO  Board:77 - Distance is not legal, suggested distance: 1.4142135623730951
+2017-05-17 08:30:02 INFO  Board:77 - Distance is not legal, suggested distance: 2.23606797749979
+2017-05-17 08:30:02 INFO  Board:103 - Distance is not legal, suggested distance: 2.23606797749979
+2017-05-17 08:31:26 ERROR Board:56 - Agents colors are matching.
+2017-05-17 08:31:26 ERROR Board:60 - Agents can not have the same name.
+2017-05-17 08:31:26 ERROR Board:77 - Trying to move a disc with color WHITE, when current player's color is BLACK
+2017-05-17 08:31:26 ERROR Board:77 - Trying to move a disc with color null, when current player's color is BLACK
+2017-05-17 08:31:26 INFO  Board:103 - Distance is not legal, suggested distance: 2.23606797749979
+2017-05-17 08:31:54 ERROR Board:56 - Agents colors are matching.
+2017-05-17 08:31:54 ERROR Board:60 - Agents can not have the same name.
+2017-05-17 08:31:55 ERROR Board:77 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:31:55 ERROR Board:77 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:31:55 INFO  Board:104 - Distance is not legal, suggested distance: 2.23606797749979
+2017-05-17 08:33:01 ERROR Board:56 - Agents colors are matching.
+2017-05-17 08:33:01 ERROR Board:60 - Agents can not have the same name.
+2017-05-17 08:33:01 ERROR Board:77 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:33:01 ERROR Board:77 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:33:01 INFO  Board:104 - Distance is not legal, suggested distance: 2.23606797749979
+2017-05-17 08:33:22 ERROR Board:56 - Agents colors are matching.
+2017-05-17 08:33:22 ERROR Board:60 - Agents can not have the same name.
+2017-05-17 08:33:22 ERROR Board:77 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:33:22 ERROR Board:77 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:33:22 ERROR Board:104 - Distance is not legal, suggested distance: 2.23606797749979
+2017-05-17 08:33:59 ERROR Board:56 - Agents colors are matching.
+2017-05-17 08:33:59 ERROR Board:60 - Agents can not have the same name.
+2017-05-17 08:33:59 ERROR Board:77 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:33:59 ERROR Board:77 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:33:59 ERROR Board:104 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951
+2017-05-17 08:35:47 ERROR Board:56 - Agents colors are matching.
+2017-05-17 08:35:47 ERROR Board:60 - Agents can not have the same name.
+2017-05-17 08:35:47 INFO  Board:74 - Requested move from (2;0) to (3;1) for agent Agent
+2017-05-17 08:35:47 ERROR Board:78 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:35:47 INFO  Board:74 - Requested move from (2;0) to (3;2) for agent Agent
+2017-05-17 08:35:47 ERROR Board:78 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:35:47 ERROR Board:105 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951
+2017-05-17 08:36:45 ERROR Board:56 - Agents colors are matching.
+2017-05-17 08:36:45 ERROR Board:60 - Agents can not have the same name.
+2017-05-17 08:36:45 INFO  Board:74 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:36:45 ERROR Board:78 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:36:45 INFO  Board:74 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:36:45 ERROR Board:78 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:36:45 ERROR Board:105 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951
+2017-05-17 08:37:43 ERROR Board:59 - Agents colors are matching.
+2017-05-17 08:37:43 ERROR Board:63 - Agents can not have the same name.
+2017-05-17 08:37:43 INFO  Board:77 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:37:43 ERROR Board:81 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:37:43 INFO  Board:77 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:37:43 ERROR Board:81 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:37:43 ERROR Board:108 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951
+2017-05-17 08:38:17 ERROR Board:57 - Agents colors are matching.
+2017-05-17 08:38:17 ERROR Board:61 - Agents can not have the same name.
+2017-05-17 08:38:17 INFO  Board:75 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:38:17 ERROR Board:79 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:38:17 INFO  Board:75 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:38:17 ERROR Board:79 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:38:17 ERROR Board:106 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951.
+2017-05-17 08:41:46 ERROR Board:57 - Agents colors are matching.
+2017-05-17 08:41:46 ERROR Board:61 - Agents can not have the same name.
+2017-05-17 08:41:46 INFO  Board:75 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:41:46 ERROR Board:79 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:41:46 INFO  Board:84 - Move from (2;0) to (3;1) is done.
+2017-05-17 08:41:46 INFO  Board:75 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:41:46 ERROR Board:79 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:41:46 ERROR Board:107 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951.
+2017-05-17 08:42:10 ERROR Board:57 - Agents colors are matching.
+2017-05-17 08:42:10 ERROR Board:61 - Agents can not have the same name.
+2017-05-17 08:42:11 INFO  Board:75 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:42:11 ERROR Board:79 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:42:11 INFO  Board:84 - Move of WHITE from (2;0) to (3;1) is done.
+2017-05-17 08:42:11 INFO  Board:75 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:42:11 ERROR Board:79 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:42:11 ERROR Board:107 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951.
+2017-05-17 08:43:22 ERROR Board:57 - Agents colors are matching.
+2017-05-17 08:43:22 ERROR Board:61 - Agents can not have the same name.
+2017-05-17 08:43:22 INFO  Board:75 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:43:22 ERROR Board:79 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:43:22 INFO  Board:84 - Move of WHITE from (2;0) to (3;1) is done.
+2017-05-17 08:43:22 INFO  Board:75 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:43:22 ERROR Board:79 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:43:22 ERROR Board:109 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951.
+2017-05-17 08:43:22 INFO  Board:88 - Move of null from (2;0) to (3;2) was NOT performed.
+2017-05-17 08:43:55 ERROR Board:57 - Agents colors are matching.
+2017-05-17 08:43:55 ERROR Board:61 - Agents can not have the same name.
+2017-05-17 08:43:56 INFO  Board:75 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:43:56 ERROR Board:79 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:43:56 INFO  Board:84 - Move of WHITE from (2;0) to (3;1) is done.
+2017-05-17 08:43:56 INFO  Board:75 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:43:56 ERROR Board:79 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:43:56 ERROR Board:109 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951.
+2017-05-17 08:43:56 INFO  Board:88 - Move of 'null' from (2;0) to (3;2) was not performed.
+2017-05-17 08:45:14 ERROR Board:57 - Agents colors are matching.
+2017-05-17 08:45:14 ERROR Board:61 - Agents can not have the same name.
+2017-05-17 08:45:14 INFO  Board:75 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:45:14 ERROR Board:79 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:45:14 INFO  Board:90 - Move of WHITE from (2;0) to (3;1) is done.
+2017-05-17 08:45:14 INFO  Board:75 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:45:14 ERROR Board:79 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:45:14 ERROR Board:109 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951.
+2017-05-17 08:45:14 INFO  Board:84 - Move of 'null' from (2;0) to (3;2) was not performed.
+2017-05-17 08:48:05 ERROR Board:57 - Agents colors are matching: BLACK and BLACK
+2017-05-17 08:48:05 ERROR Board:61 - Agents can not have the same name.
+2017-05-17 08:48:05 INFO  Board:75 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:48:05 ERROR Board:79 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:48:05 INFO  Board:90 - Move of WHITE from (2;0) to (3;1) is done.
+2017-05-17 08:48:05 INFO  Board:75 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:48:05 ERROR Board:79 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:48:05 ERROR Board:109 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951.
+2017-05-17 08:48:05 INFO  Board:84 - Move of 'null' from (2;0) to (3;2) was not performed.
+2017-05-17 08:48:30 ERROR Board:57 - Agents colors are matching: BLACK and BLACK
+2017-05-17 08:48:30 ERROR Board:61 - Agents can not have the same name: Agent and Agent
+2017-05-17 08:48:30 INFO  Board:75 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:48:30 ERROR Board:79 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:48:30 INFO  Board:90 - Move of WHITE from (2;0) to (3;1) is done.
+2017-05-17 08:48:30 INFO  Board:75 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:48:30 ERROR Board:79 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:48:30 ERROR Board:109 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951.
+2017-05-17 08:48:30 INFO  Board:84 - Move of 'null' from (2;0) to (3;2) was not performed.
+2017-05-17 08:48:51 ERROR Board:57 - Agents colors are matching: BLACK and BLACK
+2017-05-17 08:48:51 ERROR Board:61 - Agents can not have the same name: 'Agent' and 'Agent'
+2017-05-17 08:48:51 INFO  Board:75 - Requested move from (2;0) to (3;1) for agent Agent with color BLACK
+2017-05-17 08:48:51 ERROR Board:79 - Trying to move a disc with color WHITE, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:48:51 INFO  Board:90 - Move of WHITE from (2;0) to (3;1) is done.
+2017-05-17 08:48:51 INFO  Board:75 - Requested move from (2;0) to (3;2) for agent Agent with color BLACK
+2017-05-17 08:48:51 ERROR Board:79 - Trying to move a disc with color null, when current player's color is BLACK. Please wait for your turn.
+2017-05-17 08:48:51 ERROR Board:109 - Distance is not legal, suggested distance: 2.23606797749979. The distance of a move has to be 1.4142135623730951.
+2017-05-17 08:48:51 INFO  Board:84 - Move of 'null' from (2;0) to (3;2) was not performed.
