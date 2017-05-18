@@ -1,4 +1,4 @@
-# Ch3ckerZ
+# Checkers
 
 ## Reguirements
  * Java JDK 8
