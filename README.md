@@ -5,7 +5,7 @@
  * Maven
 
 ## Build
-`mvn install`
+`$ mvn install`
 
 ## Run
 
